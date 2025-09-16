@@ -4,7 +4,7 @@ import React from 'react'
 const Contact = () => {
   return (
     <div>
-        <p className='text-2xl'>THis is contack page</p>
+        <p className='text-2xl'>THis is contack pagessddd</p>
         <p className='bg-amber-500'>kuch bhi</p>
         
       
