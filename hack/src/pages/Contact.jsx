@@ -12,9 +12,6 @@ const Contact = () => {
      
         
 
-
-        
-
       
     </div>
   )
