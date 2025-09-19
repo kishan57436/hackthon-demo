@@ -6,6 +6,7 @@ const Contact = () => {
     <div>
 
         <p className='bg-red'>THis is contack page</p>
+        <p>Added the new page</p>
 
 
      
